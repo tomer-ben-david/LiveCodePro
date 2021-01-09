@@ -1,9 +1,12 @@
 Spring Boot Java Non-Reactive Demo
 ----------------------------------
+<<<<<<< HEAD
 run project
 
 `./mvnw org.springframework.boot:spring-boot-maven-plugin:run`
 
+=======
+>>>>>>> 22f0d3f5eddc9d9aa858051b20420c904d070890
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
